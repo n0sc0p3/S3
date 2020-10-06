@@ -1,12 +1,12 @@
-# [Polygon Area Calculator]()
+# [Polygon Area Calculator](https://github.com/n0sc0p3/third_semester/tree/master/OOM/PolygonAreaCalculator)
 
 ---
 
-[**PolygonAreaCalculator.zip**](https://github.com/n0sc0p3/third_semester/blob/master/OOM/PolygonAreaCalculator.zip)
+[**PolygonAreaCalculator.zip**](https://github.com/n0sc0p3/third_semester/blob/master/OOM/PolygonAreaCalculator/PolygonAreaCalculator.zip)
 >Conatains the source code of the project
 
 ***
-[**PolygonAreaCalculator.jar**](https://github.com/n0sc0p3/third_semester/blob/master/OOM/PolygonAreaCalculator.jar)
+[**PolygonAreaCalculator.jar**](https://github.com/n0sc0p3/third_semester/blob/master/OOM/PolygonAreaCalculator/PolygonAreaCalculator.jar)
 >is a runnable jar file
 
 **To run it:** 
@@ -16,7 +16,7 @@
 
 ***
 
-[**GUI.jpg**](https://github.com/n0sc0p3/third_semester/blob/master/OOM/GUI.jpg)
+[**GUI.jpg**](https://github.com/n0sc0p3/third_semester/blob/master/OOM/PolygonAreaCalculator/GUI.jpg)
 >A visual representation of what the program should look like.
 ***
 
